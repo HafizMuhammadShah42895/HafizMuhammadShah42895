@@ -105,16 +105,6 @@ I'm an **AI & Backend Engineer** from Lahore, Pakistan, passionate about turning
 
 ---
 
-### 🎬 AI-Powered Video Assistant Developer
-**PureLogics, Lahore** | `May 2025 – Aug 2025`
-
-- Engineered an end-to-end video pipeline with **95% accurate transcription** and speaker diarization
-- Implemented **Whisper AI + PyannoteAI** to transform meeting recordings into searchable data
-- Integrated **ChromaDB** for semantic video indexing with a localized Ollama LLM query interface
-- Developed a **Flask-based management system** with automated PDF summary generation
-
----
-
 ## 🚀 Key Projects
 
 ### 🚚 Movers — AI-Driven Logistics & Vehicle Platform
@@ -154,6 +144,20 @@ I'm an **AI & Backend Engineer** from Lahore, Pakistan, passionate about turning
 - Optimized video rendering and audio sync using **FFmpeg** and **OpenCV**
 
 `Stack:` `LLaMA3` `ChromaDB` `Wav2Lip` `Coqui TTS` `Whisper` `OpenCV` `Flask`
+
+---
+
+### 🎬 AI-Powered Video Assistant
+`Full Stack AI Developer | PureLogics, Lahore | May 2025 – Aug 2025`
+
+> An intelligent video processing system that transforms raw meeting recordings into structured, searchable, and queryable data.
+
+- Engineered an end-to-end video pipeline with **95% accurate transcription** and speaker diarization
+- Implemented **Whisper AI + PyannoteAI** to transform meeting recordings into searchable data
+- Integrated **ChromaDB** for semantic video indexing with a localized Ollama LLM query interface
+- Developed a **Flask-based management system** with automated PDF summary generation
+
+`Stack:` `Whisper AI` `PyannoteAI` `ChromaDB` `Ollama` `Flask` `FFmpeg`
 
 ---
 
