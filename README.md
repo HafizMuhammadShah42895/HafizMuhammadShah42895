@@ -161,19 +161,6 @@ I'm an **AI & Backend Engineer** from Lahore, Pakistan, passionate about turning
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Hafiz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HafizMuhammadShah42895&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HafizMuhammadShah42895&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HafizMuhammadShah42895&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ## 📜 Certifications
 
