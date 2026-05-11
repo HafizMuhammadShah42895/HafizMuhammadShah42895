@@ -9,7 +9,6 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hafizmuhammadshah11@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923450976304)
 
-
 </div>
 
 ---
@@ -65,13 +64,16 @@ I'm an **AI & Backend Engineer** from Lahore, Pakistan, passionate about turning
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 ```text
 ✦ FastAPI                 →  Real-time streaming backends, async APIs, low-latency AI endpoints
 ✦ Flask                   →  Lightweight AI service wrappers, RAG apps, file management systems
 ✦ Django                  →  Full-stack web applications with ORM and admin management
+✦ React                   →  Modern frontend UIs, SPA dashboards, real-time data rendering
 ✦ Stripe API              →  Secure payment flows, driver payouts, live transaction management
 ✦ RESTful APIs            →  Clean, versioned, production-ready API design
+✦ WebSockets              →  Real-time bidirectional communication for chat & voice apps
 ✦ Linux Process Mgmt      →  Server-side process control, background workers, system automation
 ```
 
@@ -97,14 +99,44 @@ I'm an **AI & Backend Engineer** from Lahore, Pakistan, passionate about turning
 ### 🏢 AI & Backend Engineering Intern
 **PureLogics, Lahore** | `July 2025 – Present`
 
-- Architecting **real-time streaming backends** using FastAPI for low-latency AI interactions
-- Developing modular AI services using OOP principles integrated with **Groq** and **Ollama**
-- Optimizing **SQL schemas** and server-side process management for high-availability AI tools
-- Collaborating on **large-scale RAG data ingestion pipelines** for enterprise applications
+- Build scalable Python web apps using **Django and FastAPI** with MVC architecture and clean coding standards in a team environment
+- Design **RESTful API endpoints** and collaborate with frontend developers to integrate server-side logic with user-facing features
+- Independently build **AI service modules** and LangChain/LangGraph-powered agentic pipelines; participate in code reviews
+- Manage **MySQL databases**, deploy applications on Linux servers, and use Git for version control and team collaboration
 
 ---
 
 ## 🚀 Key Projects
+
+### 📞 CallerAI — AI-Powered Cold Calling Platform
+`Full Stack Developer | 2025`
+
+> A fully self-hosted AI voice agent SaaS that handles sales calls for businesses — speaks naturally, knows the company's products, and logs every conversation with a summary and sentiment score.
+
+- Built a **real-time AI voice pipeline** using LangGraph to orchestrate: Whisper AI (STT) → LLaMA 3.1 via Groq (LLM) → Cartesia Sonic-2 (TTS) — streamed live over WebSockets
+- Used **LangChain + ChromaDB** to build a private RAG knowledge base — AI only answers about the business's products and deflects off-topic questions
+- Integrated **Telnyx PSTN** for real phone calls and a browser-based web call mode via WebSockets
+- Built automatic **post-call AI analysis**: plain-English summary, sentiment rating (Positive/Neutral/Negative), and outcome label (Interested / Not Interested / Follow-up)
+- Delivered a **multi-tenant SaaS** with complete per-user data isolation, built-in CRM, and an Insights Dashboard
+
+`Stack:` `Python` `FastAPI` `LangChain` `LangGraph` `ChromaDB` `Whisper AI` `Groq` `Cartesia TTS` `Telnyx` `WebSockets` `MySQL` `React` `JWT`
+
+---
+
+### 💍 Premium Matrimony — AI Matchmaking Platform
+`Full Stack Developer | 2025`
+
+> A modern matrimonial platform for Pakistani and South Asian users with AI-powered match suggestions, real-time chat, CNIC identity verification, and a full admin panel.
+
+- Built **AI match suggestions** using LangChain + ChromaDB vector embeddings — finds the top 5 most compatible partners and explains why they match in plain English
+- Added a **feedback learning loop**: liking or skipping matches updates the user's preference profile for smarter future suggestions
+- Built **real-time messaging** via WebSockets, OTP email verification, JWT auth, and a **full admin panel** for user management and CNIC verification
+- Implemented **CNIC OCR pipeline**: Pytesseract + EasyOCR extract text → AI parses it → admin reviews with a side-by-side profile comparison
+- Delivered admin analytics with **30-day historical data**: registrations, matches, messages, profile views, and meetings
+
+`Stack:` `Python` `Django` `FastAPI` `LangChain` `ChromaDB` `WebSockets` `MySQL` `React` `JWT` `REST APIs` `Pytesseract` `EasyOCR`
+
+---
 
 ### 🚚 Movers — AI-Driven Logistics & Vehicle Platform
 `Lead Developer | 2025`
@@ -147,7 +179,7 @@ I'm an **AI & Backend Engineer** from Lahore, Pakistan, passionate about turning
 ---
 
 ### 🎬 AI-Powered Video Assistant
-`Full Stack AI Developer | PureLogics, Lahore | May 2025 – Aug 2025`
+`Full Stack AI Developer | PureLogics, Lahore | 2025`
 
 > An intelligent video processing system that transforms raw meeting recordings into structured, searchable, and queryable data.
 
@@ -159,7 +191,6 @@ I'm an **AI & Backend Engineer** from Lahore, Pakistan, passionate about turning
 `Stack:` `Whisper AI` `PyannoteAI` `ChromaDB` `Ollama` `Flask` `FFmpeg`
 
 ---
-
 
 ## 📜 Certifications
 
